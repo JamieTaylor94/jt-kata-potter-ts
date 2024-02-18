@@ -1,4 +1,4 @@
-import { calculatePrice } from './shop'
+import { calculatePrice } from './pricing'
 
 describe('book price calculator', () => {
   it('no books is zero get out of my shop', () => {
